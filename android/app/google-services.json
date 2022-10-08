@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453164785256",
+    "project_id": "fir-2037a",
+    "storage_bucket": "fir-2037a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453164785256:android:2998c41ae9fbe2f433a5dd",
+        "android_client_info": {
+          "package_name": "com.myreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453164785256-5u4n689hvaa1rq2pfv4ml7umsc0huq7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1IwqKyuqu2lrC0O1i5VHvXFtsvEKFwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453164785256-5u4n689hvaa1rq2pfv4ml7umsc0huq7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

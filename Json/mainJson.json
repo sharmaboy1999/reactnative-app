@@ -1,0 +1,326 @@
+[
+    {
+        "products": [
+            {
+                "tagId": 1,
+                "tagTitle": "New Arrival",
+                "tagProducts": [
+                    {
+                        "productId": 1,
+                        "productDescription": "New Arrival first item",
+                        "productPrice": 200,
+                        "productImage": "https://m.media-amazon.com/images/I/61vvdD45qeL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 2,
+                        "productDescription": "New Arrival second item",
+                        "productPrice": 300,
+                        "productImage": "https://m.media-amazon.com/images/I/81D+KVOvp2L._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 3,
+                        "productDescription": "New Arrival third item",
+                        "productPrice": 450,
+                        "productImage": "https://m.media-amazon.com/images/I/81pKnQg-OOL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 4,
+                        "productDescription": "New Arrival fourth item",
+                        "productPrice": 500,
+                        "productImage": "https://m.media-amazon.com/images/I/61hMQOHmEIL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 5,
+                        "productDescription": "New Arrival fifth item",
+                        "productPrice": 600,
+                        "productImage": "https://m.media-amazon.com/images/I/71NG97cfPZL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 6,
+                        "productDescription": "New Arrival sixth item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/61V62ZaEKOS._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 7,
+                        "productDescription": "New Arrival seventh item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/61V62ZaEKOS._AC_UL480_FMwebp_QL65_.jpg"
+                    }
+                ]
+            },
+            {
+                "tagId": 2,
+                "tagTitle": "Most Selling",
+                "tagProducts": [
+                    {
+                        "productId": 1,
+                        "productDescription": "Most Selling first item",
+                        "product_price": 200,
+                        "productImage": "https://m.media-amazon.com/images/I/71+jtTG2SiL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 2,
+                        "productDescription": "Most Selling second item",
+                        "productPrice": 300,
+                        "productImage": "https://m.media-amazon.com/images/I/61ZGXTSfA3L._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 3,
+                        "productDescription": "Most Selling third item",
+                        "productPrice": 450,
+                        "productImage": "https://m.media-amazon.com/images/I/71WQKsxr7lL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                     {
+                        "productId": 4,
+                        "productDescription": "Most Selling fourth item",
+                        "productPrice": 500,
+                        "productImage": "https://m.media-amazon.com/images/I/61tnh+UkmpL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 5,
+                        "productDescription": "Most Selling fifth item",
+                        "productPrice": 600,
+                        "productImage": "https://m.media-amazon.com/images/I/71yUJm6cjvL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 6,
+                        "productDescription": "Most Selling sixth item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/81GoM-C4rVL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 7,
+                        "productDescription": "Most Selling seventh item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/81GoM-C4rVL._AC_UL480_FMwebp_QL65_.jpg"
+                    }
+                ]
+            },
+            {
+                "tagId": 3,
+                "tagTitle": "Categories",
+                "tagProducts": [
+                    {
+                        "productId": 1,
+                        "productDescription": "Categories first item",
+                        "productPrice": 200,
+                        "productImage": "https://m.media-amazon.com/images/I/61YQd1wdQBL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 2,
+                        "productDescription": "Categories second item",
+                        "productPrice": 300,
+                        "productImage": "https://m.media-amazon.com/images/I/81wOxhEf2aL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 3,
+                        "productDescription": "Categories third item",
+                        "productPrice": 450,
+                        "productImage": "https://m.media-amazon.com/images/I/31g-2CAhk3S._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 4,
+                        "productDescription": "Categories fourth item",
+                        "productPrice": 500,
+                        "productImage": "https://m.media-amazon.com/images/I/61utX8kBDlL._AC_UL480_FMwebp_QL65_.jpg"
+                    }, {
+                        "productId": 5,
+                        "productDescription": "Categories fifth item",
+                        "productPrice": 600,
+                        "productImage": "https://m.media-amazon.com/images/I/61eFYML4rLL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 6,
+                        "productDescription": "Categories sixth item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/818uIyHjkDL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 7,
+                        "productDescription": "Categories seventh item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/818uIyHjkDL._AC_UL480_FMwebp_QL65_.jpg"
+                    }
+                ]
+            },
+            {
+                "tagId": 4,
+                "tagTitle": "Trends",
+                "tagProducts": [
+                    {
+                        "productId": 1,
+                        "productDescription": "Trends first item",
+                        "productPrice": 200,
+                        "productImage": "https://m.media-amazon.com/images/I/61QwMfrVbaL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 2,
+                        "productDescription": "Trends second item",
+                        "productPrice": 300,
+                        "productImage": "https://m.media-amazon.com/images/I/614heBKPIhL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 3,
+                        "productDescription": "Trends third item",
+                        "productPrice": 450,
+                        "productImage": "https://m.media-amazon.com/images/I/61JGur+is1L._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 4,
+                        "productDescription": "Trends fourth item",
+                        "productPrice": 500,
+                        "productImage": "https://m.media-amazon.com/images/I/61bzb6TpfIS._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 5,
+                        "productDescription": "Trends fifth item",
+                        "productPrice": 600,
+                        "productImage": "https://m.media-amazon.com/images/I/61FFBTzKiUL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 6,
+                        "productDescription": "Trends sixth item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/51sx+HbErlL._AC_UL480_FMwebp_QL65_.jpg"
+                    },{
+                        "productId": 7,
+                        "productDescription": "Trends seventh item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/51sx+HbErlL._AC_UL480_FMwebp_QL65_.jpg"
+                    }
+                ]
+            },
+            {
+                "tagId": 5,
+                "tagTitle": "Deals of the day",
+                "tagProducts": [
+                    {
+                        "productId": 1,
+                        "productDescription": "Deals of the day first item",
+                        "productPrice": 200,
+                        "productImage": "https://m.media-amazon.com/images/I/61QO-J8oXpL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 2,
+                        "productDescription": "Deals of the day second item",
+                        "productPrice": 300,
+                        "productImage": "https://m.media-amazon.com/images/I/61UZ+QwpH6S._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 3,
+                        "productDescription": "Deals of the day third item",
+                        "productPrice": 450,
+                        "productImage": "https://m.media-amazon.com/images/I/61xa0xNAnyL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 4,
+                        "productDescription": "Deals of the day fourth item",
+                        "productPrice": 500,
+                        "productImage": "https://m.media-amazon.com/images/I/6107b1AlxkL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                     {
+                        "productId": 5,
+                        "productDescription": "Deals of the day fifth item",
+                        "productPrice": 600,
+                        "productImage": "https://m.media-amazon.com/images/I/71t-RrgFsAL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 6,
+                        "productDescription": "Deals of the day sixth item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/71OhvvYpnSL._AC_UL480_FMwebp_QL65_.jpg"
+                    },{
+                        "productId": 7,
+                        "productDescription": "Deals of the day seventh item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/71OhvvYpnSL._AC_UL480_FMwebp_QL65_.jpg"
+                    }
+                ]
+            },
+            {
+                "tagId": 6,
+                "tagTitle": "Recommended",
+                "tagProducts": [
+                    {
+                        "productId": 1,
+                        "productDescription": "Recommended first item",
+                        "productPrice": 200,
+                        "productImage": "https://m.media-amazon.com/images/I/814FJfColTL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 2,
+                        "productDescription": "Recommended second item",
+                        "productPrice": 300,
+                        "productImage": "https://m.media-amazon.com/images/I/71mSYPGCaXL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 3,
+                        "productDescription": "Recommended third item",
+                        "productPrice": 450,
+                        "productImage": "https://m.media-amazon.com/images/I/61zXxLhtF5L._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 4,
+                        "productDescription": "Recommended fourth item",
+                        "productPrice": 500,
+                        "productImage": "https://m.media-amazon.com/images/I/61hMQOHmEIL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 5,
+                        "productDescription": "Recommended fifth item",
+                        "productPrice": 600,
+                        "productImage": "https://m.media-amazon.com/images/I/51UgVX7R6NL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 6,
+                        "productDescription": "Recommended sixth item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/61dCv7YtviL._AC_UL480_FMwebp_QL65_.jpg"
+                    },
+                    {
+                        "productId": 7,
+                        "productDescription": "Recommended seventh item",
+                        "productPrice": 800,
+                        "productImage": "https://m.media-amazon.com/images/I/61dCv7YtviL._AC_UL480_FMwebp_QL65_.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": [
+            {
+                "categoryName": "Tshirt",
+                "categoryImage": "https://m.media-amazon.com/images/I/31MhnHe6f+L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "categoryName": "Trouser",
+                "categoryImage": "https://m.media-amazon.com/images/I/81vD+JvtHzL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "categoryName": "Shirt",
+                "categoryImage": "https://m.media-amazon.com/images/I/71Eez6ZjHCL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "categoryName": "Jeans",
+                "categoryImage": "https://m.media-amazon.com/images/I/71A3JurbVdL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    },
+    {
+        "banner": []
+    },
+    {
+        "testimonial": []
+    },
+    {
+        "clients": []
+    },
+    {
+        "topMenu": []
+    },
+    {
+        "footerMenu": []
+    }
+]
